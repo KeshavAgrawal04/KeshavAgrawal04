@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keshav Agrawal</h1>
+<p style="font-size: 24px;" align="center">Hi 👋, I'm Keshav Agrawal</p>
 
 <img align="right" height="250" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1699934769~exp=1699935369~hmac=25372c3c939349f828cc973be1261784cb10c2b93aad327ed2ff15db"  />
 
