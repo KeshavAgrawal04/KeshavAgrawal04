@@ -3,7 +3,7 @@
 <img align="right" height="250" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1699934769~exp=1699935369~hmac=25372c3c939349f828cc973be1261784cb10c2b93aad327ed2ff15db"  />
 
 <h3 align="left">👨‍💻 About Me ➡️</h3>
-<p style="font-size:20px">I am currently pursuing BCA with a good understanding of software development , I am excited to take on the role of a Software developer. I am a quick learner. I have a passion for technology and  continuously improve my skills. I am excited to start my career in a field that I am passionate about.</p>
+<h4>I am currently pursuing BCA with a good understanding of software development , I am excited to take on the role of a Software developer. I am a quick learner. I have a passion for technology and  continuously improve my skills. I am excited to start my career in a field that I am passionate about.</h4>
 <h3 align="left">🌟 Connect With Me ➡️</h3>
 
 <div align="left">
