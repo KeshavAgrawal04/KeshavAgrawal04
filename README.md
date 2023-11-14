@@ -31,7 +31,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
   <img width="15" />
-  <br>
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
