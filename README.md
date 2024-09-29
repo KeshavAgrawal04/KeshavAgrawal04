@@ -1,6 +1,6 @@
 # Hi, I'm Keshav Agrawal 👋
 
-**BCA Student | Full Stack Developer (MERN) | Mobile Developer (React Native)**
+**Full Stack Developer (MERN) | Mobile Developer (React Native)**
 
 ---
 
