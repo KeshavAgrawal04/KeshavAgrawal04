@@ -1,48 +1,99 @@
-<h1 align="center">Hi 👋, I'm Keshav Agrawal</h1>
+# Hi, I'm Keshav Agrawal 👋
 
-<img align="right" height="250" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1699934769~exp=1699935369~hmac=25372c3c939349f828cc973be1261784cb10c2b93aad327ed2ff15db"  />
+**BCA Student | Full Stack Developer (MERN) | Mobile Developer (React Native)**
 
-<h3 align="left">👨‍💻 About Me ➡️</h3>
-<h4>I am currently pursuing BCA with a good understanding of software development , I am excited to take on the role of a Software developer. I am a quick learner. I have a passion for technology and  continuously improve my skills. I am excited to start my career in a field that I am passionate about.</h4>
-<h3 align="left">🌟 Connect With Me ➡️</h3>
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/keshav-agrawal-9568a624a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin logo"  />
-  </a>
-</div>
+## 🤝 Let's Connect!
 
-<h3 align="left">🛠️ Languages And Tools ➡️</h3>
+I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out through any of the platforms below:
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://keshavagrawal.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshavagrawal04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavagrawal04/)
+[![Email](https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavagrawal1123@gmail.com)
 
-<h3 align="left">🔥 My Stats & Steaks ➡️</h3>
+---
+
+## 👨‍💻 About Me
+
+I'm Keshav Agrawal, a passionate web and mobile developer currently pursuing my **Bachelor of Computer Applications (BCA)** at Vikram University, Ujjain. I specialize in building **full-stack applications** using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and have a deep interest in **mobile app development** using **React Native**.
+
+I enjoy working on both **web** and **mobile** platforms and am always eager to learn new technologies to solve real-world problems.
+
+---
+
+## 🔧 Skills
+
+### 🌐 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="32" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="32" />
+</p>
+
+### 🖥️ Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" height="32" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="32" />
+</p>
+
+### 🛠️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="32" />
+</p>
+
+### 💾 Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="32" />
+</p>
+
+### ⚙️ Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="32" />
+</p>
+
+---
+
+## 🛠 Projects
+
+- **[Healthy Vaidya Herb’s](https://www.healthyvaidyaherbs.com/)**  
+  *Tech Stack: React JS, Bootstrap*  
+  A responsive static website to showcase Ayurvedic products with Amazon affiliate links. 
+
+- **Employee Management Mobile App**  
+  *Tech Stack: React Native, Node.js, Nativewind*  
+  A cross-platform app for managing employee attendance, profiles, and leave applications. 
+
+- **Voice Chat Bot App**  
+  *Tech Stack: React Native, Nativewind, Gemini API*  
+  A voice-powered chatbot app that uses voice input for user queries and integrates Gemini API for responses.
+
+---
+
+## 🎓 Education
+
+- **B.C.A (Bachelor’s of Computer Application)** - Vikram University, Ujjain (2022-2025) | 8.25 CGPA
+- **Higher Secondary School** - MP Board, Bhopal (2021-2022) | 71%
+- **High School** - MP Board, Bhopal (2019-2020) | 91.5%
+- **Master Diploma in Computer Application** - Sunrise Institute of Science & Management (2017-2018) | 75.3%
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavagrawal04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="200" alt="languages graph" />
-  <img width="15" />
-  <img src="https://github-readme-stats.vercel.app/api?username=keshavagrawal04&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keshavagrawal04&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavagrawal04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="180" alt="Most Used Languages" />
+  <img src="https://streak-stats.demolab.com?user=keshavagrawal04&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5" height="180" alt="Streak Stats" />
 </div>
+
+---
