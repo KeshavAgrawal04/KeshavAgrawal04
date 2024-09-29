@@ -65,19 +65,79 @@ I enjoy working on both **web** and **mobile** platforms and am always eager to 
 
 ## 🛠 Projects
 
-- **[Healthy Vaidya Herb’s](https://www.healthyvaidyaherbs.com/)**  
-  *Tech Stack: React JS, Bootstrap*  
-  A responsive static website to showcase Ayurvedic products with Amazon affiliate links. 
+---
 
-- **Employee Management Mobile App**  
-  *Tech Stack: React Native, Node.js, Nativewind*  
-  A cross-platform app for managing employee attendance, profiles, and leave applications. 
-
-- **Voice Chat Bot App**  
-  *Tech Stack: React Native, Nativewind, Gemini API*  
-  A voice-powered chatbot app that uses voice input for user queries and integrates Gemini API for responses.
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://res.cloudinary.com/di5uhy426/image/upload/v1727578687/projects/adbvawxph5smei9c5u7l.png" width="100%" />
+    </td>
+    <td width="50%">
+      <h3>
+        <a href="https://www.healthyvaidyaherbs.com/" target="_blank">
+          Healthy Vaidya Herb's
+        </a>
+      </h3>
+      A responsive static website to showcase Ayurvedic products with Amazon affiliate links.
+      <br/><br/>
+      <strong>Tech Stack:</strong>
+      <p>
+        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="40" />
+        <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="40" />
+      </p>
+      <a href="https://www.healthyvaidyaherbs.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Site-Visit%20Now-%23007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://res.cloudinary.com/di5uhy426/image/upload/v1727579496/projects/lug8ibai4jtoczxghm6t.png" alt="Employee Management Mobile App" width="100%" />
+    </td>
+    <td width="50%">
+      <h3>Employee Management Mobile App</h3>
+      A cross-platform mobile app that manages employee attendance, profiles, and leave applications. It features QR code-based attendance, an admin portal, and leave management.
+      <br/><br/>
+      <strong>Tech Stack:</strong>
+      <p>
+        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" height="40" />
+        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="40" />
+        <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" height="40" />
+      </p>
+      <img src="https://img.shields.io/badge/App-Download%20on%20Android-%23A4C639?style=for-the-badge&logo=android&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://via.placeholder.com/600x300?text=Voice+Chat+Bot+App" alt="Voice Chat Bot App" width="100%" />
+    </td>
+    <td width="50%">
+      <h3>Voice Chat Bot App</h3>
+      A voice-powered chatbot app that uses voice input for user queries and integrates with the Gemini API for generating responses.
+      <br/><br/>
+      <strong>Tech Stack:</strong>
+      <p>
+        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" height="40" />
+        <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" height="40" />
+        <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL API" height="40" />
+      </p>
+      <img src="https://img.shields.io/badge/App-Download%20on%20Android-%23A4C639?style=for-the-badge&logo=android&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
 
 ## 🎓 Education
 
