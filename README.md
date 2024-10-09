@@ -157,3 +157,9 @@ I enjoy working on both **web** and **mobile** platforms and am always eager to 
 </div>
 
 ---
+
+## 🐍 Sneak Game
+
+Play the Snake game [here](https://your-codepen-link.com).
+
+---
